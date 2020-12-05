@@ -1,0 +1,102 @@
+.navbar-brand{
+	width:15%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 2.5rem;
+}
+
+.banner-content{
+	background-image: url(../images/edasi1.png);
+    padding:150px 0px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.content {
+    text-align: center;
+        width: 554px;
+    background-color: white;
+        margin: auto;
+    opacity: 0.6;
+    padding: 30px 70px;
+
+}
+
+.content h2{
+	color: black;
+	    font-weight: 700;
+	    padding-top: 30px;
+}
+.content p{
+	color:black;
+
+    font-weight: 600;
+
+}
+.content a{
+	    text-decoration: none;
+        background: #000000;
+    color: white;
+    padding: 5px 13px;
+    border-radius: 5px;
+}
+.content h3{
+	color: black;
+	    font-weight: 700;
+}
+.para .container .para1 span{
+    display: inline-block;
+    width: 648px;
+    height: 2px;
+    background-color: black;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.pic .container .row {
+    width: 890px;
+    margin: auto;
+}
+
+.pic .container .row .col-4 img{
+	border-radius: 10px;
+}
+
+.pic .container .row .col-4 h3{
+
+    font-weight: 100;
+    font-size: 22px;
+    letter-spacing: 3px;
+    padding: 10px;
+}
+.pic .container .row .col-4 span {
+    display: block;
+    width: 30px;
+    height: 2px;
+    background-color: red;
+    margin: auto;
+    margin-bottom: 10px;
+}
+i {
+    font-size: 27px;
+    line-height: 59px!important;
+}
+
+.feature .row .col-8 img{
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.para .container .para1 p {
+    margin-top: 24px;
+    margin-bottom: 1rem;
+    padding: 0px 227px;
+}
+p{
+	display: inline-block;
+}
